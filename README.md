@@ -1,7 +1,8 @@
 
 # Welcome to COHORT - Season 1
 
-![zkThon Github Main Readme](https://user-images.githubusercontent.com/128218414/226963031-48178406-8f64-4b37-933c-185ab960a0de.png)
+![COHORT GIthub main Readme](https://user-images.githubusercontent.com/75811912/230791406-1d53be80-c676-4fef-8d36-39a7f6877b1b.png)
+
 
 ---
 
