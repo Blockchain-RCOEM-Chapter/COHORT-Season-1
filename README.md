@@ -23,7 +23,7 @@ BRC themed NFT (Workshop 1)
 ## *Challenge II* 🖼️
 BRC themed NFT (Workshop 2)
 
-## *Challenge III* 🖼️
+## *Challenge III* 👕
 Special #BRC Tshirt [Top 20 Submission]
 
 <br>
