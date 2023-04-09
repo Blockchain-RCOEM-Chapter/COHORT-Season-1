@@ -2,7 +2,6 @@
 # Welcome to COHORT - Season 1
 
 ![COHORT GIthub main Readme](https://user-images.githubusercontent.com/75811912/230791682-d467de3c-eb2c-4504-91f6-0d56075b9966.png)
-
 ---
 
 # Welcome to COHORT - Season 1
