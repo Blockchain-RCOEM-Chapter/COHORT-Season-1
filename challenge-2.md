@@ -1,53 +1,39 @@
+# 🌱 Challenge II: Post Your Understanding on LinkedIn
 
-# 🪴 Challenge II: Deploy an ERC20 or ERC721 Token on the Polygon Mumbai Testnet
+## Description
 
+Attend the workshop 2 and post your understanding on LinkedIn. This challenge is very easy and should take only a few minutes to complete. 
 
-## Description: 
-Deploy an ERC20 or ERC721 token on the Polygon Mumbai testnet.
-## Rewards:
-To be decided
+## Rewards
 
-## Get Started 🏃🏻‍♂️ 
+We can’t wait for you to complete this and claim, **your NFT 🖼️**
 
-- Setup your testnet environment for Polygon Mumbai testnet.
+## Hashtags Used
 
-- Claim some tokens required to work with Polygon Mumbai testnet [here](https://faucet.polygon.technology/) 
+- [ ] `#COHORT`
+- [ ] `#BRC_RCOEM`
 
-- Write a simple ERC20 or ERC721 token smart contract using Solidity, Or for more ease of use you can use the [Openzeppelin wizard](https://docs.openzeppelin.com/contracts/4.x/wizard).
+## Steps on how to Contribute ?
 
-- Now let's compile and deploy your smart contract using solidity compilers like [remix](https://remix.ethereum.org/) on the Polygon Mumbai testnet. (NOTE: You can use Hardhat if you want to as well)
+ - Attend the workshop 2
 
-- Once deployed head over to the [block explorer](https://mumbai.polygonscan.com/) and let's verify the deployment and get all the necessary information for the submission.
+ - Share us your thoughts and learning on LinkedIn with hashtag **#COHORT** & **#BRC_RCOEM**. 
 
-- We'll need two things for the submission `Transaction hash` and `Contract address`
+ - Create a new file with title `solution-1.md` and add the LinkedIn post link in the file.
 
-**Example:**
+ 
+## Submission Guidelines
 
-```bash
-# Contract Address
-https://mumbai.polygonscan.com/address/0xYourContractAddress/contracts
+- Create a new branch `username_BRC`, e.g. `PriyathamVarma_BRC`
 
-# Transaction Address
-https://mumbai.polygonscan.com/tx/0xYouTransactionAddress
-```
+- Create a file named as `solution-1.md` for this challenge. 
 
+- Paste the LinkdeIn link.
 
-## Challenge Submission and guidelines
+ - **[VERY IMPORTANT STEP]**  Add Post link to this `solution-1.md`
+ 
+ ```
+ ex: LinkedIn : https://linkedin/in/username/xyz
+ ```
 
-- [ ] Fork the repository [ we hope you did that already 💫] 
-
-- [ ] Create a new branch (if not already created)  `username_brc`, e.g.  `PriyathamVarma_brc` [ we hope you already did this too  💫] 
-
-- [ ] Now let's create a file named as `solution-2.md`.
-
-- [ ] Now let's add the code for the smart contract deployed on Polygon Mumbai Testnet in `solutions-2.md`
-
-- [ ] **[VERY IMPORTANT STEP]** Take the `Transaction Hash` and `Contract Address` and put it the Airtable form below with rest of the details. 
-
--------
-
-[**Submission Challenge II form**](https://airtable.com/shr21z0FfPImZfYBQ)
-
-*This is an Important step please don't skip.*
-
--------
+---

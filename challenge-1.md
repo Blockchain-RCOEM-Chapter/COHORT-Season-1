@@ -1,8 +1,8 @@
-# 🌱 Challenge I: Post Your Understanding on LinkedIN
+# 🌱 Challenge I: Post Your Understanding on LinkedIn
 
 ## Description
 
-Attend the workshop and post your understanding on LinkedIN. This challenge is very easy and should take only a few minutes to complete. 
+Attend the workshop 1 and post your understanding on LinkedIn. This challenge is very easy and should take only a few minutes to complete. 
 
 ## Rewards
 
@@ -10,35 +10,33 @@ We can’t wait for you to complete this and claim, **your NFT 🖼️**
 
 ## Hashtags Used
 
-- [ ] `#hashtag1`
-- [ ] `#hashtag2`
+- [ ] `#COHORT`
+- [ ] `#BRC_RCOEM`
 
 ## Steps on how to Contribute ?
 
- - Attend the workshop
+ - Attend the workshop 1
 
- - Share us your thoughts and learning on LinkedIN with hashtag **#hashtag1** & **#hashtag2**. 
+ - Share us your thoughts and learning on LinkedIn with hashtag **#COHORT** & **#BRC_RCOEM**. 
 
- - Create a new file with title `solution-1.md` and add the LinkedIN post link in the file.
+ - Create a new file with title `solution-1.md` and add the LinkedIn post link in the file.
 
- - **[VERY IMPORTANT STEP]**  Add the link of this `solution-1.md` file to this [BRC challenge submission form](https://airtable.com/shr21z0FfPImZfYBQ).
- 
- ```
- (ex: https://github.com/username/challenges/blob/username_brc/solution-1.md)
- ```
  
 ## Submission Guidelines
 
-- Create a new branch `username_brc`, e.g. `PriyathamVarma_brc`
 
-- Create a file named as `solution-1.md` for this challenge. 
+- Fork the repository [ we hope you did that already 💫] 
 
-- Paste the tweet link.
+- Create a new branch (if not already created)  `username_brc`, e.g.  `PriyathamVarma_brc` [ we hope you already did this too  💫]
 
-- Add details on the [**Airtable form**](https://airtable.com/shr21z0FfPImZfYBQ).
+- Create a file named as `solution-2.md` for this challenge. 
 
--------
+- Paste the LinkdeIn link.
 
-[**Submission Challenge I form**](https://airtable.com/shr21z0FfPImZfYBQ)
+ - **[VERY IMPORTANT STEP]**  Add Post link to this `solution-2.md`
+ 
+ ```
+ ex: LinkedIn : https://linkedin/in/username/xyz
+ ```
 
-*This is an Important step, please don't skip.*
+---
