@@ -62,7 +62,7 @@ Special #BRC Tshirt [Top 20 Submission]
 
 Please use the Discord group to better faciliate helping out with the challenges and also helping otheres.
 
-[Discord **"Blochain RCOEM Chapter"**](https://discord.com/invite/TxrKaPgB) | [Twitter **"@blockchainrcoem"**]( https://twitter.com/blockchainrcoem)
+[Discord **"Blochain RCOEM Chapter"**](https://discord.gg/PSRnXxHc) | [Twitter **"@blockchainrcoem"**]( https://twitter.com/blockchainrcoem)
 
 ---
 
