@@ -54,7 +54,7 @@ Special #BRC Tshirt [Top 20 Submission]
 | ------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------- |
 | Challenge -I | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-1.md) | Post Your Understanding on LinkedIN       | BRC NFT            |
 | Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-2.md) | Post Your Understanding on LinkedIN     | BRC NFT |
-| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-3.md) | Deploy an ERC20 or ERC721 Token on the Polygon Mumbai Testnet | #BRC T-Shirt       |
+| Challenge -III | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-3.md) | Deploy an ERC20 or ERC721 Token on the Polygon Mumbai Testnet | #BRC T-Shirt       |
 
 ---
 
