@@ -24,16 +24,15 @@ We can’t wait for you to complete this and claim, **your NFT 🖼️**
  
 ## Submission Guidelines
 
+- Fork the repository
 
-- Fork the repository [ we hope you did that already 💫] 
+- Create a new branch `username_BRC`, e.g. `PriyathamVarma_BRC`
 
-- Create a new branch (if not already created)  `username_brc`, e.g.  `PriyathamVarma_brc` [ we hope you already did this too  💫]
-
-- Create a file named as `solution-2.md` for this challenge. 
+- Create a file named as `solution-1.md` for this challenge. 
 
 - Paste the LinkdeIn link.
 
- - **[VERY IMPORTANT STEP]**  Add Post link to this `solution-2.md`
+ - **[VERY IMPORTANT STEP]**  Add Post link to this `solution-1.md`
  
  ```
  ex: LinkedIn : https://linkedin/in/username/xyz
