@@ -48,7 +48,7 @@ Special #BRC Tshirt [Top 20 Submission] (plagiarism check)
 
 ## Challenges
 
-⚠️ IMPORTANT: In order for a submission to be qualified, you must tag `Blockhain RCOm Chapter`
+⚠️ IMPORTANT: In order for a submission to be qualified, you must tag `Blockhain RCOEM Chapter`
 
 | Challenge    | Link                                                                                       | Description                                              | Prizes                |
 | ------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------- |
