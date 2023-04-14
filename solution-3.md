@@ -9,3 +9,9 @@
 ####        _mint(msg.sender,20*10**decimals());
 ####    }
 #### } 
+
+## Contract Details
+##### | name | value |
+##### | ------------- | ------------- |
+##### | transaction hash | "0x0647f54688ca34de9b97a20cbd14aa9cddaf865b54e8c87194b5b5e78e58156f"  |
+##### | contract | "0x69Fe027c70231796965993a6b3B9fad99Fdf8222"  |
