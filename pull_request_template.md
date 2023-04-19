@@ -6,5 +6,5 @@ This pull request is for the COHORT Challenges. I have attend the workshop 1 and
 ## Checklist
 
 - [1] Done Challenge-1.
-- [ ] Done Challenge-2.
+- [1] Done Challenge-2.
 - [ ] Done Challenge-3.
