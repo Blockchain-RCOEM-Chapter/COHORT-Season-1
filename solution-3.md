@@ -1,8 +1,21 @@
 // SPDX-License-Identifier: MIT
+pragma solidity ^0.8.7;
 
-pragma solidity ^0.8.0;
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "@openzeppelin/contracts/utils/Counters.sol";
 
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+contract MyToken is ERC721 {
+    using Counters for Counters.Counter;
+    Counters.Counter private _tokenIds;
 
-contract MyToken is ERC20 { constructor() ERC20("MyToken", "MTK") { _mint(msg.sender, 1000000 * 10 ** decimals()); } }
+    constructor() ERC721("AB_Token", "MTK") {}
 
+    function mint(address recipient) public returns (uint256) {
+        _tokenIds.increment();
+
+        uint256 newItemId = _tokenIds.current();
+        _safeMint(recipient, newItemId);
+
+        return newItemId;
+    }
+}
