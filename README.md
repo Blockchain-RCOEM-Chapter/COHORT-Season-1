@@ -1,7 +1,7 @@
 
 # Welcome to COHORT - Season 1
 
-![COHORT GIthub main Readme](https://user-images.githubusercontent.com/75811912/230791682-d467de3c-eb2c-4504-91f6-0d56075b9966.png)
+![COHORT Github COHORT-4 Readme](https://user-images.githubusercontent.com/75811912/230791682-d467de3c-eb2c-4504-91f6-0d56075b9966.png)
 
 ---
 
@@ -49,8 +49,8 @@ Special #BRC *United to Buidl* Tshirt [Top 20 Submission]
 
 | Challenge    | Link                                                                                       | Description                                              | Prizes                |
 | ------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------- |
-| Challenge -I | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-1.md) | Post Your Understanding on LinkedIN       | BRC NFT            |
-| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-2.md) | Deploy a Smart Contract on Ploygon| #BRC Thsirt |
+| Challenge -I | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/COHORT-4/challenge-1.md) | Post Your Understanding on LinkedIN       | BRC NFT            |
+| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/COHORT-4/challenge-2.md) | Deploy a Smart Contract on Ploygon| #BRC Thsirt |
 
 ---
 
