@@ -2,7 +2,7 @@
 
 ## Description
 
-Attend the workshop 1 and post your understanding on LinkedIn. This challenge is very easy and should take only a few minutes to complete. 
+Attend the workshop and post your understanding on LinkedIn. This challenge is very easy and should take only a few minutes to complete. 
 
 ## Rewards
 
@@ -15,7 +15,7 @@ We can’t wait for you to complete this and claim, **your NFT 🖼️**
 
 ## Steps on how to Contribute ?
 
- - Attend the workshop 1
+ - Attend the workshop
 
  - Share us your thoughts and learning on LinkedIn with hashtag **#COHORT** & **#BRC_RCOEM**. 
 

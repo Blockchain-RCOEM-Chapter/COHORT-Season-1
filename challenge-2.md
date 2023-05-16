@@ -1,41 +1,48 @@
-# 🌱 Challenge II: Post Your Understanding on LinkedIn
 
-## Description
-
-Attend the workshop 2 and post your understanding on LinkedIn. This challenge is very easy and should take only a few minutes to complete. 
-
-## Rewards
-
-We can’t wait for you to complete this and claim, **your NFT 🖼️**
-
-## Hashtags Used
-
-- [ ] `#COHORT`
-- [ ] `#BRC_RCOEM`
-
-## Steps on how to Contribute ?
-
- - Attend the workshop 2
-
- - Share us your thoughts and learning on LinkedIn with hashtag **#COHORT** & **#BRC_RCOEM**. 
-
- - Create a new file with title `solution-2.md` and add the LinkedIn post link in the file.
-
-## Submission Guidelines
+# 🪴 Challenge II: Deploy a Smart Contract on the Polygon Mumbai Testnet
 
 
-- Fork the repository [ we hope you did that already 💫] 
+## Description: 
+Deploy a Smart Contract on the Polygon Mumbai testnet. (*Plagiarism will Check*) (*Not to be copied from anywhere*)
 
-- Create a new branch (if not already created)  `username_brc`, e.g.  `PriyathamVarma_brc` [ we hope you already did this too  💫]
+## Rewards:
+We can’t wait for you to complete this and claim, **your Special #BRC Tshirt [Top 20 Submission] 🖼️**
 
-- Create a file named as `solution-2.md` for this challenge. 
+## Get Started 🏃🏻‍♂️ 
 
-- Paste the LinkdeIn link.
+- Setup your testnet environment for Polygon Mumbai testnet.
 
- - **[VERY IMPORTANT STEP]**  Add Post link to this `solution-2.md`
- 
- ```
- ex: LinkedIn : https://linkedin/in/username/xyz
- ```
+- Claim some tokens required to work with Polygon Mumbai testnet [here](https://faucet.polygon.technology/) 
 
----
+- Write a smart contract using Solidity, Or for more ease of use you can use the [Openzeppelin wizard](https://docs.openzeppelin.com/contracts/4.x/wizard).
+
+- Now let's compile and deploy your smart contract using solidity compilers like [remix](https://remix.ethereum.org/) on the Polygon Mumbai testnet. (NOTE: You can use Hardhat if you want to as well)
+
+- Once deployed head over to the [block explorer](https://mumbai.polygonscan.com/) and let's verify the deployment and get all the necessary information for the submission.
+
+- We'll need two things for the submission `Transaction hash` and `Contract address`
+
+**Example:**
+
+```bash
+# Contract Address
+https://mumbai.polygonscan.com/address/0xYourContractAddress/contracts
+
+# Transaction Address
+https://mumbai.polygonscan.com/tx/0xYouTransactionAddress
+```
+
+
+## Challenge Submission and guidelines
+
+- [ ] Fork the repository [ we hope you did that already 💫] 
+
+- [ ] Create a new branch (if not already created)  `username_BRC`, e.g.  `PriyathamVarma_BRC` [ we hope you already did this too  💫] 
+
+- [ ] Now let's create a file named as `solution-3.md`.
+
+- [ ] Now let's add the code for the smart contract deployed on Polygon Mumbai Testnet in `solutions-3.md`
+
+- [ ] **[VERY IMPORTANT STEP]** Take the `Transaction Hash` and `Contract Address` and put it the Airtable form below with rest of the details. 
+
+-------

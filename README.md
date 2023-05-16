@@ -20,18 +20,15 @@ The **COHORT** challenges are divided into three phases, ranging from very easy 
 ## *Challenge I* 🖼️
 BRC themed NFT (Workshop 1)
 
-## *Challenge II* 🖼️
-BRC themed NFT (Workshop 2)
-
-## *Challenge III* 👕
-Special #BRC Tshirt [Top 20 Submission] (plagiarism check)
+## *Challenge II* 👕
+Special #BRC *United to Buidl* Tshirt [Top 20 Submission]
 
 <br>
 
 ---
 ## Hashtags Used
 
-**Please make a lots of Posts, tweets and get the fellow BUIDLers hyped up:**
+**Please make a lots of Posts, tweets and get the fellow BUIDL hyped up:**
 
 - `#COHORT`
 - `#BRC_RCOEM`
@@ -42,7 +39,7 @@ Special #BRC Tshirt [Top 20 Submission] (plagiarism check)
 
 - [ ] Fork the repository
 - [ ] Create a new branch `username_BRC`, e.g. `PriyathamVarma_BRC`
-- [ ] Create `solution-1.md`, `solution-2.md` and `solution-3.md` for respective solutions in the root directory.
+- [ ] Create `solution-1.md` and `solution-2.md` for respective solutions in the root directory.
 - [ ] LFG... Start solving the challenges.
 ---
 
@@ -53,8 +50,7 @@ Special #BRC Tshirt [Top 20 Submission] (plagiarism check)
 | Challenge    | Link                                                                                       | Description                                              | Prizes                |
 | ------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------- |
 | Challenge -I | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-1.md) | Post Your Understanding on LinkedIN       | BRC NFT            |
-| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-2.md) | Post Your Understanding on LinkedIN     | BRC NFT |
-| Challenge -III | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-3.md) | Deploy an ERC20 or ERC721 Token on the Polygon Mumbai Testnet | #BRC T-Shirt       |
+| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/main/challenge-2.md) | Deploy a Smart Contract on Ploygon| #BRC Thsirt |
 
 ---
 
