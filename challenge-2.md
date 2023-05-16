@@ -39,9 +39,9 @@ https://mumbai.polygonscan.com/tx/0xYouTransactionAddress
 
 - [ ] Create a new branch (if not already created)  `username_BRC`, e.g.  `PriyathamVarma_BRC` [ we hope you already did this too  💫] 
 
-- [ ] Now let's create a file named as `solution-3.md`.
+- [ ] Now let's create a file named as `solution-2.md`.
 
-- [ ] Now let's add the code for the smart contract deployed on Polygon Mumbai Testnet in `solutions-3.md`
+- [ ] Now let's add the code for the smart contract deployed on Polygon Mumbai Testnet in `solutions-2.md`
 
 - [ ] **[VERY IMPORTANT STEP]** Take the `Transaction Hash` and `Contract Address` and put it the Airtable form below with rest of the details. 
 
