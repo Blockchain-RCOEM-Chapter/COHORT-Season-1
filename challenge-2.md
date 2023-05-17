@@ -1,9 +1,9 @@
 
-# 🪴 Challenge II: Deploy a Smart Contract on the Polygon Mumbai Testnet
+# 🪴 Challenge II: Create a Daap on the Polygon Mumbai Testnet
 
 
 ## Description: 
-Deploy a Smart Contract on the Polygon Mumbai testnet. (*Plagiarism will Check*) (*Not to be copied from anywhere*)
+Create a Daap on the Polygon Mumbai testnet. (*Not to be copied from anywhere*)
 
 ## Rewards:
 We can’t wait for you to complete this and claim, **your Special #BRC Tshirt [Top 20 Submission] 🖼️**
@@ -25,11 +25,13 @@ We can’t wait for you to complete this and claim, **your Special #BRC Tshirt [
 **Example:**
 
 ```bash
+''''''''''''''''
+ Your Code here
+''''''''''''''''
+
 # Contract Address
 https://mumbai.polygonscan.com/address/0xYourContractAddress/contracts
 
-# Transaction Address
-https://mumbai.polygonscan.com/tx/0xYouTransactionAddress
 ```
 
 

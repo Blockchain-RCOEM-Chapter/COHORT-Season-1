@@ -50,7 +50,7 @@ Special #BRC *United to Buidl* Tshirt [Top 20 Submission]
 | Challenge    | Link                                                                                       | Description                                              | Prizes                |
 | ------------ | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------- |
 | Challenge -I | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/COHORT-4/challenge-1.md) | Post Your Understanding on LinkedIN       | BRC NFT            |
-| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/COHORT-4/challenge-2.md) | Deploy a Smart Contract on Ploygon| #BRC Thsirt |
+| Challenge -II | [`Start`](https://github.com/Blockchain-RCOEM-Chapter/COHORT-Season1/blob/COHORT-4/challenge-2.md) | Create a Daap on Ploygon Mumbai MATIC | #BRC Thsirt |
 
 ---
 
