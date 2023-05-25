@@ -1,4 +1,4 @@
-@github/Blockchain-RCOEM-Chapter
+@Blockchain-RCOEM-Chapter
 
 ![Follow](https://img.shields.io/badge/RCOEM-Follow-blue)
 # CODE Of Solidity
