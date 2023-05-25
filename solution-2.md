@@ -21,5 +21,6 @@ contract MyDApp {
 }
 '''
 
-### Transaction Hash :  0xf2d26f198cea3094aa4ca75963d576c8f080ac5a982ad3f1942e2f8d635d5fca
-### Contact Address : 0xc4c7f08aa19b57405770832fd6b8306df20d245c
+| Transaction Hash |  0xf2d26f198cea3094aa4ca75963d576c8f080ac5a982ad3f1942e2f8d635d5fca |
+| --- | --- |
+|Contact Address | 0xc4c7f08aa19b57405770832fd6b8306df20d245c |
