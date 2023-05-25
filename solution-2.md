@@ -1,6 +1,7 @@
-# CODE file name was MyDapp.sol
-'''
-// SPDX-License-Identifier: MIT
+# CODE Of Solidity
+```js
+SPDX-License-Identifier: MIT
+
 pragma solidity ^0.8.0;
 
 contract MyDApp {
@@ -19,7 +20,9 @@ contract MyDApp {
         emit Transfer(msg.sender, to, value);
     }
 }
-'''
+```
+
+# The Necessary Information For The Submission
 
 | Transaction Hash |  0xf2d26f198cea3094aa4ca75963d576c8f080ac5a982ad3f1942e2f8d635d5fca |
 | --- | --- |
